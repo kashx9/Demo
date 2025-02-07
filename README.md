@@ -1,3 +1,3 @@
 # Demo
 My first repo
-<br>Author-Ayush Kashyap
+<br>Author-Ayush Kashyap(original)
